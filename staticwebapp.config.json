@@ -29,7 +29,7 @@
               }
             },
             "login": {
-              "nameClaimType": "Name",
+              "nameClaimType": "Email Addresses",
               "scopes": ["openid"]
             }
           }
